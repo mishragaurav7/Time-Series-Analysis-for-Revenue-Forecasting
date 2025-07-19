@@ -28,10 +28,10 @@ This project focuses on forecasting monthly revenue using historical data and ti
 ## 📊 Visualizations
 
 - Line plot of historical revenue trends
-  <img width="627" height="308" alt="Monthly_revenue_over_time" src="https://github.com/user-attachments/assets/2f52de6b-893e-472d-a177-c233a6626f71" />
+<img width="627" height="308" alt="Monthly_revenue_over_time" src="https://github.com/user-attachments/assets/2f52de6b-893e-472d-a177-c233a6626f71" />
 
 - Seasonal decomposition showing trend, seasonality, and residuals
-  <img width="382" height="262" alt="Decomposed_components" src="https://github.com/user-attachments/assets/7283fd67-6867-4c1e-82fa-a4c8a995c1a6" />
+<img width="382" height="262" alt="Decomposed_components" src="https://github.com/user-attachments/assets/7283fd67-6867-4c1e-82fa-a4c8a995c1a6" />
 
 - Forecast graph for the next 6 months
 <img width="625" height="308" alt="Revenue_Forecast" src="https://github.com/user-attachments/assets/9977981e-e237-40d4-9499-b39a68e16d15" />
